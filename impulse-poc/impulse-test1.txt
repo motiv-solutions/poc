@@ -4,3 +4,4 @@ new commit
 another commit
 a new commit
 another commit
+commit
